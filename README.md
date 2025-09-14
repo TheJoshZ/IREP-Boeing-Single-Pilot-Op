@@ -2,13 +2,16 @@
 
 ## 1.0 Overview
 A single-pilot cockpit simulator built for **X-Plane** using **Python** (UI & logic) and **C++** (plugin integration).
+![](images/sim1.png)
 
 ## 2.0 Features
 ### 2.1 HUD Overlays
 - Pitch/Roll, speed, synthetic horizon, landing assist  
+![](images/hud.png)
 
 ### 2.2 Synthetic Vision
 - Terrain visualization in all weather/lighting conditions  
+![](images/svs.png)
 
 ### 2.3 Flight Path Mapping
 - Waypoints, airspace zones, traffic visualization  
@@ -21,11 +24,6 @@ A single-pilot cockpit simulator built for **X-Plane** using **Python** (UI & lo
 - **C++** (X-Plane SDK, OpenGL)  
 - **XPFlightPlanner** for waypoint data  
 
-## 4.0 Setup
-1. Clone repo  
-2. Build C++ plugin → X-Plane plugins folder  
-3. Run Python UI → Launch X-Plane  
-
-## 5.0 Contributors
+## 4.0 Contributors
 - Ashwin Pillai  
 - Joshua Zhu  
