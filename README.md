@@ -1,7 +1,7 @@
 # Boeing Single Pilot Operations Simulator
 
 ## 1.0 Overview
-A single-pilot cockpit simulator built for **X-Plane** using **Python** (UI & logic) and **C++** (plugin integration).
+A single-pilot cockpit simulator built for **X-Plane** using **Python** (UI & logic) and **C++** (plugin integration). Full presentation included, the below is a TLDR
 ![](images/sim2.png)
 
 ## 2.0 Features
