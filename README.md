@@ -2,7 +2,7 @@
 
 ## 1.0 Overview
 A single-pilot cockpit simulator built for **X-Plane** using **Python** (UI & logic) and **C++** (plugin integration).
-![](images/sim1.png)
+![](images/sim2.png)
 
 ## 2.0 Features
 ### 2.1 HUD Overlays
